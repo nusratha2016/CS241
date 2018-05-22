@@ -4,7 +4,7 @@ c. One to one
 d. Many to many
 
 2a. Symmetric, Reflexive, Transitive
-b.
+b. Symmetric, Reflexive, Transitive
 c. Symmetric and Transitive
 d. Reflexive
 
