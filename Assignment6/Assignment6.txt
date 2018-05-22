@@ -1,0 +1,19 @@
+1a. One to one
+b. One to one
+c. One to one
+d. Many to many
+
+2a. Symmetric, Reflexive, Transitive
+b.
+c. Symmetric and Transitive
+d. Reflexive
+
+3a. Surjective
+b. Injective
+c. Bijective
+d. Surjective
+
+4a. fog = {(1, 7), (2, 6), (3, 1), (4, 3), (5, 8), (6, 4), (7, 2), (8, 5)}
+b. gof = {(1, 3), (2, 6), (3, 8), (4, 7), (5, 4), (6, 8), (7, 1), (8, 5)}
+c. f^-1 = {(1, 4), (2, 1), (3, 5), (4, 8), (5, 2), (6, 3), (7, 7), (8, 6)}
+d. gog = {(1, 1), (2, 4), (3, 5), (4, 6), (5, 8), (6, 2), (7, 7), (8, 3)}
